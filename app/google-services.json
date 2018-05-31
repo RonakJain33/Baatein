@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1013547867015",
+    "firebase_url": "https://baatein-cf7b2.firebaseio.com",
+    "project_id": "baatein-cf7b2",
+    "storage_bucket": "baatein-cf7b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013547867015:android:566ffcb9b6dda215",
+        "android_client_info": {
+          "package_name": "com.example.asus.baatein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013547867015-jfttu6al2gqf8536vgjnkhgmqsc5c51l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.baatein",
+            "certificate_hash": "61576e95c0499440b3b6a3e0bc32f432b8b69002"
+          }
+        },
+        {
+          "client_id": "1013547867015-hj7r9nibjo38t0v9d5vrhktvatamm0n0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1013547867015-hj7r9nibjo38t0v9d5vrhktvatamm0n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq5PuUH8EAwKzCSTvjKCz9xTgp-uECL1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013547867015-hj7r9nibjo38t0v9d5vrhktvatamm0n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
